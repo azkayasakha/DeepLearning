@@ -2,7 +2,7 @@
 
 # 📘 Ringkasan Buku
 
-![Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](/Cover Book.png "Cover Book")
+![Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://raw.githubusercontent.com/azkayasakha/DeepLearning/refs/heads/main/Week%208%20-%2016/Cover%20Book.png "Cover Book")
 
 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Edisi ke-2)**
 *O’Reilly Media*
